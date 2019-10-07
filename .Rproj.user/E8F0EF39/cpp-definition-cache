@@ -1,0 +1,122 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "C:/Users/wangy/Documents/ltsspca/ltsspca/src/MyPcs.cpp",
+                "kind" : 6,
+                "line" : 19,
+                "name" : "findpcs(arma::mat, arma::mat, arma::rowvec, int, double, int, int, int, double, bool)",
+                "parent_name" : "",
+                "usr" : "c:@F@findpcs#$@N@arma@C@Mat>#d#S0_#$@N@arma@C@Row>#d#I#d#I#I#I#d#b#"
+            }
+        ],
+        "file" : "C:/Users/wangy/Documents/ltsspca/ltsspca/src/MyPcs.cpp",
+        "file_last_write" : 1568647636
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "C:/Users/wangy/Documents/ltsspca/ltsspca/src/MyPcs2.cpp",
+                "kind" : 6,
+                "line" : 19,
+                "name" : "findpcs2(arma::mat, arma::mat, arma::rowvec, int, double, int, int, int, double, bool)",
+                "parent_name" : "",
+                "usr" : "c:@F@findpcs2#$@N@arma@C@Mat>#d#S0_#$@N@arma@C@Row>#d#I#d#I#I#I#d#b#"
+            }
+        ],
+        "file" : "C:/Users/wangy/Documents/ltsspca/ltsspca/src/MyPcs2.cpp",
+        "file_last_write" : 1568647709
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "C:/Users/wangy/Documents/ltsspca/ltsspca/src/MyclassicalPcs.cpp",
+                "kind" : 6,
+                "line" : 20,
+                "name" : "findpcs0(arma::mat, arma::mat, arma::rowvec, int, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@findpcs0#$@N@arma@C@Mat>#d#S0_#$@N@arma@C@Row>#d#I#d#"
+            }
+        ],
+        "file" : "C:/Users/wangy/Documents/ltsspca/ltsspca/src/MyclassicalPcs.cpp",
+        "file_last_write" : 1568647649
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "C:/Users/wangy/Documents/ltsspca/ltsspca/src/findsparsepc_ltsspca.cpp",
+                "kind" : 6,
+                "line" : 21,
+                "name" : "findsparsePC(arma::mat, arma::mat, arma::rowvec, double, int, int, int, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@findsparsePC#$@N@arma@C@Mat>#d#S0_#$@N@arma@C@Row>#d#d#I#I#I#d#"
+            }
+        ],
+        "file" : "C:/Users/wangy/Documents/ltsspca/ltsspca/src/findsparsepc_ltsspca.cpp",
+        "file_last_write" : 1568663125
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "C:/Users/wangy/Dropbox/Projects/R packages/ltsspca/ltsspca/src/MyPcs.cpp",
+                "kind" : 6,
+                "line" : 19,
+                "name" : "findpcs(arma::mat, arma::mat, arma::rowvec, int, double, int, int, int, double, bool)",
+                "parent_name" : "",
+                "usr" : "c:@F@findpcs#$@N@arma@C@Mat>#d#S0_#$@N@arma@C@Row>#d#I#d#I#I#I#d#b#"
+            }
+        ],
+        "file" : "C:/Users/wangy/Dropbox/Projects/R packages/ltsspca/ltsspca/src/MyPcs.cpp",
+        "file_last_write" : 1512575572
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "C:/Users/wangy/Dropbox/Projects/R packages/ltsspca/ltsspca/src/MyPcs2.cpp",
+                "kind" : 6,
+                "line" : 18,
+                "name" : "findpcs2(arma::mat, arma::mat, arma::rowvec, int, double, int, int, int, double, bool)",
+                "parent_name" : "",
+                "usr" : "c:@F@findpcs2#$@N@arma@C@Mat>#d#S0_#$@N@arma@C@Row>#d#I#d#I#I#I#d#b#"
+            }
+        ],
+        "file" : "C:/Users/wangy/Dropbox/Projects/R packages/ltsspca/ltsspca/src/MyPcs2.cpp",
+        "file_last_write" : 1512575572
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "C:/Users/wangy/Dropbox/Projects/R packages/ltsspca/ltsspca/src/MyclassicalPcs.cpp",
+                "kind" : 6,
+                "line" : 20,
+                "name" : "findpcs0(arma::mat, arma::mat, arma::rowvec, int, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@findpcs0#$@N@arma@C@Mat>#d#S0_#$@N@arma@C@Row>#d#I#d#"
+            }
+        ],
+        "file" : "C:/Users/wangy/Dropbox/Projects/R packages/ltsspca/ltsspca/src/MyclassicalPcs.cpp",
+        "file_last_write" : 1556528174
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 12,
+                "file" : "C:/Users/wangy/Dropbox/Projects/R packages/ltsspca/ltsspca/src/findsparsepc_ltsspca.cpp",
+                "kind" : 6,
+                "line" : 22,
+                "name" : "findsparsePC(arma::mat, arma::mat, arma::rowvec, double, int, int, int, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@findsparsePC#$@N@arma@C@Mat>#d#S0_#$@N@arma@C@Row>#d#d#I#I#I#d#"
+            }
+        ],
+        "file" : "C:/Users/wangy/Dropbox/Projects/R packages/ltsspca/ltsspca/src/findsparsepc_ltsspca.cpp",
+        "file_last_write" : 1554719988
+    }
+]

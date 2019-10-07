@@ -1,0 +1,15 @@
+{
+    "args" : [
+        "-IC:/Program Files/RStudio/resources/libclang/builtin-headers/3.4",
+        "-IC:/Users/wangy/Documents/R/win-library/3.7/Rcpp/include",
+        "-IC:/Users/wangy/Documents/R/win-library/3.7/RcppArmadillo/include",
+        "-std=gnu++11",
+        "-IC:/PROGRA~1/R/R-devel/include",
+        "-DNDEBUG",
+        "-IC:/projects/BUILD/R-source-win64/extsoft/include",
+        "-fopenmp"
+    ],
+    "hash" : "156845325915565328861556532886",
+    "is_cpp" : true,
+    "pch" : "Rcpp"
+}
